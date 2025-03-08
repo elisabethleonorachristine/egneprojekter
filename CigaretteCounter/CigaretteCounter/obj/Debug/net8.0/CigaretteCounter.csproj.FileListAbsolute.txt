@@ -1,0 +1,14 @@
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\bin\Debug\net8.0\CigaretteCounter.exe
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\bin\Debug\net8.0\CigaretteCounter.deps.json
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\bin\Debug\net8.0\CigaretteCounter.runtimeconfig.json
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\bin\Debug\net8.0\CigaretteCounter.dll
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\bin\Debug\net8.0\CigaretteCounter.pdb
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.AssemblyInfoInputs.cache
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.AssemblyInfo.cs
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.csproj.CoreCompileInputs.cache
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.dll
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\refint\CigaretteCounter.dll
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.pdb
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\CigaretteCounter.genruntimeconfig.cache
+C:\Users\ehell\Desktop\Datamatiker\Kodeøvelse\CigaretteCounter\CigaretteCounter\obj\Debug\net8.0\ref\CigaretteCounter.dll
