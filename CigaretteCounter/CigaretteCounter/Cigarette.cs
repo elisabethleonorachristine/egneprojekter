@@ -17,19 +17,7 @@ namespace CigaretteCounter
             CigsToday = cigsToday;
         }
 
-        public void AddCig()
-        {
-            Console.WriteLine("Enter number of cigs to add:");
-            string cigNum = Console.ReadLine();
-            int cigNumInt = Int32.Parse(cigNum);
-            if (cigNumInt > 0)
-            {
-                Cigarette newCig = new Cigarette(TotalCigs, cigNumInt);
-                TotalCigs += cigNumInt;
-                Console.WriteLine($"You now have smoked {TotalCigs} cigarettes in total.");
-            }
-            
-        }
+      
         
         
    
